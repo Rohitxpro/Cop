@@ -114,3 +114,7 @@ See the full collection and documentation at:
 |[spotifyembed](https://coffeebank.github.io/coffee-cogs/spotifyembed)|Automatically send a reply to Spotify links with a link to the embed preview. Convenient for mobile users who can finally listen to music samples from Discord, without needing an account.|
 |[websearch](https://coffeebank.github.io/coffee-cogs/websearch)|A simple Discord bot feature that returns links to search engines without needing to copy-paste a search term into a website/app separately. Comes preset with search strings for Google, Bing, Ecosia, DuckDuckGo, and Wikipedia. Custom search strings can be added. Works similarly to LMGTFY, but without the passive aggressiveness.|
 |[zidian](https://coffeebank.github.io/coffee-cogs/zidian)|Chinese dictionary bot. Can search Chinese characters, Pinyin, and English. Fetches results locally from saved dictionaries. Uses CC-CEDICT. Inspired by Pleco and Jisho.|
+
+# ʜᴇʀᴋᴜ ᴅᴇᴘʟᴏʏ
+</h3>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/rohitxpro/Cop"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
